@@ -21,5 +21,5 @@ If you facing any error in your project you can join my discord server from [her
 if u like this consider donating [here](https://priyansh.xyz/donate)<br/>
 Bytheway you can also star ⭐ this repository if you want.
 
-##Credit
+## Credit
 [Priyansh](https://www.priyansh.xyz)
