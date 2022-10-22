@@ -1,7 +1,8 @@
 # Always typing shown discord bot
-A simple replit database based open source url-shorterner.
 
-Create a replit account from [here](https://replit.com/). Now fork this git from [here](https://repl.it/github/priyanshdotxyz/url-shortner).
+
+
+Create a replit account from [here](https://replit.com/). Now fork this git from [here](https://repl.it/github/priyanshdotxyz/always-typing-status-discord-bot).
 ## How to setup
 1. Fork this project into your replit account.
 2. Create a secret and name with key TOKEN and secret your bot token.
