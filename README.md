@@ -1,6 +1,7 @@
+## Disclaimer
+This is for educational purpose only.
+
 # Always typing shown discord bot
-
-
 
 Create a replit account from [here](https://replit.com/). Now fork this git from [here](https://repl.it/github/priyanshdotxyz/always-typing-status-discord-bot).
 ## How to setup
