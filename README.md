@@ -8,7 +8,7 @@ Create a replit account from [here](https://replit.com/). Now fork this git from
 1. Fork this project into your replit account.
 2. Create a secret and name with key TOKEN and secret your bot token.
 3. run your repl.
-4. To make it run 24/7 create a account on [Uptime Robots](https://uptimerobots.com) 
+4. To make it run 24/7 create a account on [Better Uptime](https://betterstack.com/better-uptime) 
 5. Create a monitor and choose https in monitor type and put your repl url in the monitor url sector and save it
 6. All done 👍
 
@@ -19,7 +19,6 @@ Create a replit account from [here](https://replit.com/). Now fork this git from
 If you facing any error in your project you can join my discord server from [here](https://www.priyansh.xyz/discord) and ping me there for help
 
 ## Extras
-if u like this consider donating [here](https://priyansh.xyz/donate)<br/>
 Bytheway you can also star ⭐ this repository if you want.
 
 ## Credit
