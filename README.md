@@ -18,8 +18,5 @@ Create a replit account from [here](https://replit.com/). Now fork this git from
 ## Support
 If you facing any error in your project you can join my discord server from [here](https://www.priyansh.xyz/discord) and ping me there for help
 
-## Extras
-Bytheway you can also star ⭐ this repository if you want.
-
 ## Credit
 [Priyansh](https://www.priyansh.xyz)
