@@ -3,7 +3,7 @@ This is for educational purpose only.
 
 # Always typing shown discord bot
 
-Create a replit account from [here](https://replit.com/). Now fork this git from [here](https://repl.it/github/priyanshdotxyz/always-typing-status-discord-bot).
+Create a replit account from [here](https://replit.com/). Now fork this git from [here](https://repl.it/github/priyanshprajapat/typing-djs-bot).
 ## How to setup
 1. Fork this project into your replit account.
 2. Create a secret and name with key TOKEN and secret your bot token.
@@ -13,7 +13,7 @@ Create a replit account from [here](https://replit.com/). Now fork this git from
 6. All done 👍
 
 ## Fork
-[Replit](https://repl.it/github/priyanshdotxyz/always-typing-status-discord-bot).
+[Replit](https://repl.it/github/priyanshprajapat/typing-djs-bot).
 
 ## Support
 If you facing any error in your project you can join my discord server from [here](https://www.priyansh.xyz/discord) and ping me there for help
